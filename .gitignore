@@ -1,0 +1,10 @@
+/venv/
+/venv/*
+*.parquet
+*.csv
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+.ipynb_checkpoints
